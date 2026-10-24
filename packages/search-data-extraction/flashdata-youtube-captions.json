@@ -10,9 +10,7 @@
   "license": "MIT",
   "logo": "https://raw.githubusercontent.com/rocosen/flashdata-mcp/main/assets/logo.svg",
   "author": "FlashData",
-  "binArgs": [
-    "mcp"
-  ],
+  "binArgs": ["mcp"],
   "env": {
     "FLASHDATA_API_KEY": {
       "description": "Your FlashData API key with access to youtube_captions. Create a key at https://flashdata.dev/app/api-keys. Data queries consume Credits; pricing: https://flashdata.dev/pricing.",
